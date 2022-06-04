@@ -1,1 +1,3 @@
-console.log('ojotas');
+let calzadoComodo = 'ojotas'
+
+console.log(calzadoComodo);
