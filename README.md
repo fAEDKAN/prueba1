@@ -1,3 +1,8 @@
 # prueba1
-Bettina Oña
+
 ## 
+
+## Participantes
+
+-Federico Somma
+-Bettina Oña
